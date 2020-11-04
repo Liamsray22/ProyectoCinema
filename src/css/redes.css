@@ -1,0 +1,41 @@
+.line{
+    padding-left: 0%;
+    margin-left: 0%;
+    position: relative;
+    border: 2em;
+    background-color: rgb(60, 91, 228);
+    font-size: 2em;
+    color: beige;
+}
+
+.box{
+    position: relative;
+    top: 40%;
+    left: 90%;
+    transform: translate(-50%,-50%);
+}
+
+.src{
+    padding: 9px 10px 9px 32px;
+    outline: none;
+    font-size: 18px;
+    border-radius: 15px;
+    color: #444;
+    border:2px solid white;
+    background: #fff url("../images/search-icon.png") no-repeat 9px center;
+    width: 40px;
+    transition: all 0.5s;
+}
+
+
+.src:focus, .src:hover{
+    background-color: white;
+    width: 180px;
+    border-color: #ff0000;
+    box-shadow: 0 0 5px #6dcff680;
+
+
+}
+
+
+
