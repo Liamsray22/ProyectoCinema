@@ -19,7 +19,7 @@ const TaquillaPage = () =>(
 
         /> */}
         <Taquilla/>
-        <Footer/>
+        {/* <Footer/> */}
     </>
 
 )

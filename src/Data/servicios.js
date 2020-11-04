@@ -3,32 +3,28 @@ export const Servicios =[
         title:'Peliculas',
         url:'#',
         cName:'nav-links',
-        img:'https://lh3.googleusercontent.com/proxy/rSr4xAX5S0H6GzKP4K9haLfGDag6xStuEJO093_Vbog3i2MPgFdI3rd6tUsIHEsdQ_KVtXrymgGIneMkpA9Rxt5UmgZHbR8eYpO9kUj8bxXPxznc8oiOF20UBcCdpQ'
-        
+        img:'https://alcatsar.files.wordpress.com/2015/05/summer_movies_2015_-_may_alcatsar.jpg?w=1200'
     },
     {
         title:'Facturas',
         url:'#',
         cName:'nav-links',
-        img:'https://lh3.googleusercontent.com/proxy/rSr4xAX5S0H6GzKP4K9haLfGDag6xStuEJO093_Vbog3i2MPgFdI3rd6tUsIHEsdQ_KVtXrymgGIneMkpA9Rxt5UmgZHbR8eYpO9kUj8bxXPxznc8oiOF20UBcCdpQ'
+        img:'https://image.flaticon.com/icons/png/512/522/522575.png'
     },
     {
         title:'Administracion',
         url:'#',
         cName:'nav-links',
-        img:'https://lh3.googleusercontent.com/proxy/rSr4xAX5S0H6GzKP4K9haLfGDag6xStuEJO093_Vbog3i2MPgFdI3rd6tUsIHEsdQ_KVtXrymgGIneMkpA9Rxt5UmgZHbR8eYpO9kUj8bxXPxznc8oiOF20UBcCdpQ'
-    },
+        img:'https://img.freepik.com/free-vector/woman-with-magnifier-looking-graph-diagram_82574-9595.jpg?size=626&ext=jpg'},
     {
         title:'Asientos',
         url:'#',
         cName:'nav-links',
-        img:'https://lh3.googleusercontent.com/proxy/rSr4xAX5S0H6GzKP4K9haLfGDag6xStuEJO093_Vbog3i2MPgFdI3rd6tUsIHEsdQ_KVtXrymgGIneMkpA9Rxt5UmgZHbR8eYpO9kUj8bxXPxznc8oiOF20UBcCdpQ'
-    },
+        img:'https://th.bing.com/th/id/OIP.YjB_x-CQWdJ_GECboIaDoQHaHa?pid=Api&rs=1'},
     {
         title:'Contactenos',
         url:'#',
         cName:'nav-links',
-        img:'https://lh3.googleusercontent.com/proxy/rSr4xAX5S0H6GzKP4K9haLfGDag6xStuEJO093_Vbog3i2MPgFdI3rd6tUsIHEsdQ_KVtXrymgGIneMkpA9Rxt5UmgZHbR8eYpO9kUj8bxXPxznc8oiOF20UBcCdpQ'
-    }
+        img:'https://wisecountyland.com/wp-content/uploads/2020/02/phone.jpg'}
 ]
 

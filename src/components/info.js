@@ -4,7 +4,7 @@ import logo from '../images/logo.png'
 import {Servicios} from '../Data/servicios'
 import ipcas from '../images/ipcas.jpg'
 
-
+//1
 
 const Info =()=>(
 

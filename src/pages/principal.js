@@ -20,7 +20,7 @@ const Principal = () =>(
         esto="Hol"
 
         /> */}
-        <Footer/>
+            {/* <Footer/> */}
 
     </>
 

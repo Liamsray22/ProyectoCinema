@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../images/losgo.jpeg'
-import { Button,Form, FormControl,Container,Row,Col } from 'react-bootstrap';
+import { Row } from 'react-bootstrap';
 import '../css/banner.css'
 
 //1
