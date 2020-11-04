@@ -82,6 +82,7 @@ const Recibo =()=>(
                                         <th scope="col">Nombre del Cliente</th>
                                         <th scope="col">ID de la Cartelera</th>
                                         <th scope="col">ID del Ticket</th>
+                                        <th scope="col">ID del Asiento</th>
                                         <th scope="col">Fecha de Registro</th>
                                         <th scope="col">Forma de pago</th>
                                         <th scope="col">Monto</th>
@@ -96,6 +97,7 @@ const Recibo =()=>(
 											3
 										</td>
                                             <td class="hidden-480"> 2 </td>
+                                            <td class="hidden-480"> #5 </td>
                                         	<td class="hidden-xs">
 											28-10-2020
                                         </td>

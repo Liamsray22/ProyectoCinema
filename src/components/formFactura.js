@@ -11,7 +11,7 @@ const FormFactura =()=>(
     <title>Hello, world!</title>
   </head>
   <body>
-\      <div class="container">
+      <div class="container">
    <form>
    <div class="widget-header widget-header-large">
 					<h3 class="widget-title grey lighter">
@@ -48,11 +48,11 @@ const FormFactura =()=>(
       
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationServerUsername33">Asiento</label>
+      <label for="validationServerUsername33">Asientos</label>
       <div class="input-group">
         
-        <input type="text" class="form-control " id="validationServerUsername33" placeholder="Asiento"
-          aria-describedby="inputGroupPrepend33" required/>
+      <button class="btn btn-primary" type="submit">Seleccionar Asientos</button>
+
         
       </div>
     </div>

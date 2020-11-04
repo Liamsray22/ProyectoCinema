@@ -8,7 +8,7 @@ const ModalAsientos= ()=>(
     <div>
         <Modal.Dialog>
   <Modal.Header closeButton>
-    <Modal.Title>Modal title</Modal.Title>
+    <Modal.Title>Seleccion de Asientos</Modal.Title>
   </Modal.Header>
 
   <Modal.Body  style={{display:"flex", flexWrap:"wrap"}}>
