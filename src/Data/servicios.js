@@ -1,30 +1,60 @@
 export const Servicios =[
     {
-        title:'Peliculas',
+        title:'Vegetales',
         url:'#',
         cName:'nav-links',
-        img:'https://alcatsar.files.wordpress.com/2015/05/summer_movies_2015_-_may_alcatsar.jpg?w=1200'
+        img:'https://th.bing.com/th/id/OIP.IyD8Q3AnPSPIVIXCHh2FIwHaE8?pid=ImgDet&rs=1'
     },
     {
-        title:'Facturas',
+        title:'Vegetales2',
         url:'#',
         cName:'nav-links',
-        img:'https://image.flaticon.com/icons/png/512/522/522575.png'
+        img:'https://www.aboutespanol.com/thmb/heZLjb26lvg3hytmii3S67whp1w=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/vegetales_frutas-56a57d343df78cf772889416.jpg'
     },
     {
-        title:'Administracion',
+        title:'Vegetales3',
         url:'#',
         cName:'nav-links',
-        img:'https://img.freepik.com/free-vector/woman-with-magnifier-looking-graph-diagram_82574-9595.jpg?size=626&ext=jpg'},
+        img:'https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=RdK3TjLltYiz_dTSPlMU0s$daE2N3K4ZzOUsqbU5sYu57cg09uXInNYqWG71fzb1WCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg'},
     {
-        title:'Asientos',
+        title:'Vegetales4',
         url:'#',
         cName:'nav-links',
-        img:'https://th.bing.com/th/id/OIP.YjB_x-CQWdJ_GECboIaDoQHaHa?pid=Api&rs=1'},
+        img:'https://vegetales.org/wp-content/uploads/2019/01/ejemplos-vegetales-verdes-2.jpg'},
     {
-        title:'Contactenos',
+        title:'Vegetales5',
         url:'#',
         cName:'nav-links',
-        img:'https://wisecountyland.com/wp-content/uploads/2020/02/phone.jpg'}
+        img:'https://th.bing.com/th/id/Rf510f4c663490888aefc108722222a2f?rik=Z5AZ0DcQG%2blkig&riu=http%3a%2f%2fwww.cocinayvino.com%2fwp-content%2fuploads%2f2016%2f08%2fVeggie-Lovers-Pasta-Salad-3-e1470758930196.jpg&ehk=7LwCB5iyw04rhRBhaP0euF6KeBR1xevL1frMidka%2fPY%3d&risl=&pid=ImgRaw'},
+    {
+        title:'Vegetales6',
+        url:'#',
+        cName:'nav-links',
+        img:'https://i1.wp.com/www.entrenamiento.com/wp-content/uploads/2019/11/vegetales-nutrientes.jpg?fit=2137%2C1403&ssl=1'},
+    {
+        title:'Vegetales7',
+        url:'#',
+        cName:'nav-links',
+        img:'https://th.bing.com/th/id/OIP.B5L0n99VtYIsTTpZE_WPTAHaLI?pid=ImgDet&rs=1'},
+    {
+        title:'Vegetales8',
+        url:'#',
+        cName:'nav-links',
+        img:'https://mfacdn.cachefly.net/tgp/2018/10/recetas-con-vegetales.jpg'},
+        {
+            title:'Vegetales9',
+            url:'#',
+            cName:'nav-links',
+            img:'https://d1a7biwwgyx8zb.cloudfront.net/thumbs/1200x900c/notas/poster/vegetables-1336.jpg'},
+            {
+                title:'Vegetales10',
+                url:'#',
+                cName:'nav-links',
+                img:'https://www.baenegocios.com/__export/1571005263793/sites/cronica/img/2019/10/13/20191013_072103434_bae141019-018f01.jpg_1595070056.jpg'},
+                {
+                    title:'Vegetales11',
+                    url:'#',
+                    cName:'nav-links',
+                    img:'https://i.ytimg.com/vi/wfgybP4dh-0/maxresdefault.jpg'}
 ]
 
